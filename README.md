@@ -1,5 +1,5 @@
 # Learning Italian Names, from zero to hero
-learning italian names, inspired by [makemore](https://github.com/karpathy/makemore) by Andrej Karpathy.
+inspired by Andrej Karpathy's [makemore](https://github.com/karpathy/makemore).
 
 Starting to play with just using low-order statistics in `0th, 1st and 2nd order statistics.ipynb`. Some results here:
 
@@ -13,7 +13,7 @@ l'foylofrpcftbceizafwntg'oksxvqnapvmsibxidczffbigwzbcdicgzhdt'wenxsfinscrokaazhp
 ieuvw.
 ~~~~
 
-### 1-st order statistics (capture average charachter frequency)
+### 1-st order statistics (captures average character frequency)
 
 ~~~~
 unisnoaeldiaemiifanoan.
