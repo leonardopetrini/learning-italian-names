@@ -1,7 +1,7 @@
 # Learning Italian Names, from zero to hero
 inspired by Andrej Karpathy's [makemore](https://github.com/karpathy/makemore).
 
-Starting to play with just using low-order statistics in `0th, 1st and 2nd order statistics.ipynb`. Some results here:
+Starting to play with just using low-order statistics in `n-th_order_statistics.ipynb`. Some results here:
 
 ### 0-th order statistics (i.e. random guessing)
 
