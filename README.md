@@ -30,7 +30,7 @@ iioden.
 
 ### 2-nd order statistics (two-points correlations)
 
-These already start to look more italianish.
+These already start to look more Italianish.
 
 ~~~~
 vintona.
