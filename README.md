@@ -1,7 +1,10 @@
 # Learning Italian Names 🤌
 inspired by Andrej Karpathy's [makemore](https://github.com/karpathy/makemore).
 
-Starting to play with just using low-order statistics in `n-th_order_statistics.ipynb`. Some results here:
+Starting to play with just using low-order statistics in `n-th_order_statistics.ipynb`. 
+Check out [here my first blogpost about the topic](https://www.leopetrini.me/blog/2022/italian-names/)!
+
+Some results:
 
 ### 0-th order statistics (i.e. random guessing)
 
